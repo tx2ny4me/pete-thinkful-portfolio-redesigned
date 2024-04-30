@@ -2,4 +2,4 @@
 
 Redesigned the portfolio per the following user interface mockup:
 
-https://images.ctfassets.net/c7lxnbtvvcxm/1iXhLt9MBniUwkg9wcSgkU/e60120a43e8e6c7e9635388dcd01d094/Eng-pete-portfolio-redesigned.png
+![image](https://github.com/tx2ny4me/pete-thinkful-portfolio-redesigned/assets/80992217/cc4c5598-c54e-434b-b60e-4b5861fadae9)
